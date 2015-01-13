@@ -1,0 +1,25 @@
+{
+    "name": "ray/aura-web-module",
+    "keywords": [
+        "Ray.Di module",
+        "Aura.Web"
+    ],
+    "description": "aura/web module for Ray.Di",
+    "license": "BSD-3-Clause",
+    "require": {
+        "aura/web": "~2.0",
+        "ray/di": "~2.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Ray\\AuraWebModule\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "extra": {
+        "branch-alias": {
+            "dev-develop": "0.1.x-dev"
+        }
+    }
+}
