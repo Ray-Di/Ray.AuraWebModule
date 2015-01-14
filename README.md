@@ -25,8 +25,8 @@ class AppModule extends AbstractModule
 ```
 ### DI trait
 
- * [AuraWebRequestInject](https://github.com/BEARSunday/Ray.AuraWebModule/blob/master/src/AuraWebRequestInject.php) for ` Aura\Web\Request` interface
- * [AuraWebResponseInject](https://github.com/BEARSunday/Ray.AuraWebModule/blob/master/src/AuraWebRequestInject.php) for ` Aura\Web\Request` interface
+ * [AuraWebRequestInject](https://github.com/Ray-Di/Ray.AuraWebModule/blob/master/src/AuraWebRequestInject.php) for ` Aura\Web\Request` interface
+ * [AuraWebResponseInject](https://github.com/Ray-Di/Ray.AuraWebModule/blob/master/src/AuraWebResponseInject.php) for ` Aura\Web\Request` interface
  
 ### Demo
 
